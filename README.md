@@ -1,2 +1,2 @@
 # Lukas-Her-School-Projects
-A collection of project completed in my college career.
+A collection of projects completed in my college career.
